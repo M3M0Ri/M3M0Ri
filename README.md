@@ -26,10 +26,9 @@
             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
 
+<h1>Techs I Use</h1>
 
-
-![giphy](https://user-images.githubusercontent.com/96542298/231480213-30e26415-cbae-4219-bed4-d478c17cbf82.gif)
-<h2 align="center">Techs I Use</h2>
+![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/M3M0Ri/M3M0Ri/assets/96542298/2aa09e88-5b93-43ce-af28-043ae68ecd0a)
 
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
@@ -40,3 +39,4 @@
 
 </div>
 
+![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/M3M0Ri/M3M0Ri/assets/96542298/2aa09e88-5b93-43ce-af28-043ae68ecd0a)
